@@ -1,5 +1,5 @@
 public class answer001 {
-    // 자릿수 더하기
+    // LV.1 자릿수 더하기
 
     public int solution(int n) {
         int answer = 0;
